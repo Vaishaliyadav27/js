@@ -21,3 +21,29 @@ console.log(stringNumber);
 // output 33
 console.log(typeof stringNumber);
 // output string
+
+
+
+
+        // operations
+
+let value=3
+let negvalue=-value
+console.log(negvalue);
+// output=-3
+      // make sure all datatypes are in same
+console.log(2<1);
+// false
+cosole.log(2>1);
+// true
+cosole.log(2>=1);
+// true
+cosole.log(2<=1);
+// false
+cosole.log(2==1);
+// false
+console.log("2"<1);
+// false
+
+// ===strictly check datatypes
+console.log("2"===2);
