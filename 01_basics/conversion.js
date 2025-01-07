@@ -13,3 +13,11 @@ console.log(typeof score)
 let valueInNumber=Number(score)
 console.log(typeof valueINumber);
 // output number
+
+
+let someNumber=33
+let stringNumber=string(someNumber)
+console.log(stringNumber);
+// output 33
+console.log(typeof stringNumber);
+// output string
